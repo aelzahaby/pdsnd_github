@@ -12,6 +12,9 @@ The files used in this project was:
 * new_york_city.csv
 * washington.csv
 
+## Software needed:
+The software needed to complete this project was a text editor and the shoftware I chose was **Visual Studio Code**. However, you can use other text editors such as _Atom_ or _Sublime_. You will also need to install pandas, numpy, and Anaconda.
+
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
