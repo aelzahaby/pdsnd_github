@@ -27,6 +27,13 @@ The data used in this project was provided by **Motivate**, which is a bikeshare
 * Birth Year
 It should be noted that Gender and Birth year were not in the **Washington** dataset.
 
+## Answered Questions
+Some of questions that got answered in the project were:
+* Popular travel times (Month, day, and hour)
+* Most popular stations and trips
+* Trip duration (total and average)
+* User information (gender, birth year, user type)
+
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
