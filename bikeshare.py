@@ -12,7 +12,7 @@ def get_filters():
     print('Hello! Let\'s explore some US bikeshare data!')
     while True:
         #Asks user to input city that they choose
-        city = input("Choose a city name (chicago, new york city, washington): \n").lower()
+        city = input("Choose a city name: (chicago, new york city, washington): \n").lower()
         cities = ("chicago", "new york city", "washington")
         #Checks if the user input matches the cities list
         if city not in cities:
