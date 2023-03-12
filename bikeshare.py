@@ -25,6 +25,7 @@ def get_filters():
     while True:
         #Asks user to input month that they choose
         month = input("Please choose a month: january, february, march, april, may, june, all: \n").lower()
+        #months provided in dataset
         months = ["january", "february", "march", "april", "may", "june", "all"]
         if month in months:
             break
